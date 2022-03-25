@@ -2,14 +2,10 @@
 
 👋 Hi, I’m @SprintKeyz  
 💻 My main languages are:
-- `Java`
-- `C#`
-- `C++`
+- `Java`, `C#`, `C++`
 
 🌐 With light web development in
-- `HTML5`
-- `CSS3`
-- `JS`
+- `HTML5`, `CSS3`, `JS`
 
 📝 I have worked with several programs:
 - `Unity`
@@ -18,6 +14,7 @@
 - `Visual Studio`
 - `VS Code`
 - `Android Studio`
+- And more...
 
 🎥 I make YouTube videos [here](https://www.youtube.com/SprintKeyz)
 
