@@ -18,7 +18,7 @@
 
 🎥 I make YouTube videos [here](https://www.youtube.com/SprintKeyz)
 
-🤖 I also participate in VEX Robotics and am currently on team 727G
+🤖 I also participate in VEX Robotics and am currently on team 229V
 
 <!---
 SprintKeyz/SprintKeyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
